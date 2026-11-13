@@ -1,0 +1,29 @@
+.container {
+    max-width: 480px;
+    margin: 40px auto;
+    font-family: sans-serif;
+}
+
+#search-box {
+    width: 100%;
+    padding: 8px 12px;
+    font-size: 16px;
+}
+
+.country-list {
+    list-style: none;
+    padding: 0;
+}
+
+.country-list__item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 4px 0;
+}
+
+.country-card__title {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
