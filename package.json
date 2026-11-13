@@ -8,5 +8,15 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DISERDKEK/goit-js-hw-12-countries.git"
+  },
+  "devDependencies": {
+    "@parcel/transformer-babel": "^2.16.4",
+    "@parcel/transformer-sass": "^2.16.4",
+    "parcel": "^2.16.4",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^2.0.1"
+  },
+  "dependencies": {
+    "modern-normalize": "^3.0.1"
   }
 }
